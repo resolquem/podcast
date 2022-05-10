@@ -22,7 +22,7 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "SolquiCoop al Solcast",
+    name: "SolquiCoop al PodBaks",
     artist: "Jaume Argerich & Roger Padrell",
     image: "solquicoop.png",
     path: "solquicoop.wav"

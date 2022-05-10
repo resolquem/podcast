@@ -23,9 +23,9 @@ let curr_track = document.createElement('audio');
 let track_list = [
   {
     name: "SolquiCoop al Solcast",
-    artist: "Me",
-    image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
-    path: "sound.mp3"
+    artist: "Jaume Argerich & Roger Padrell",
+    image: "/img/solquicoop.png",
+    path: "/audio/solquicoom.wav"
   },
 ];
 

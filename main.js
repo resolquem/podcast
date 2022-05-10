@@ -22,7 +22,7 @@ let curr_track = document.createElement('audio');
 // Define the tracks that have to be played
 let track_list = [
   {
-    name: "Clash",
+    name: "SolquiCoop al Solcast",
     artist: "Me",
     image: "https://images.pexels.com/photos/2264753/pexels-photo-2264753.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=250&w=250",
     path: "sound.mp3"

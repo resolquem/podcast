@@ -25,7 +25,7 @@ let track_list = [
     name: "SolquiCoop al Solcast",
     artist: "Jaume Argerich & Roger Padrell",
     image: "solquicoop.png",
-    path: "solquicoom.wav"
+    path: "solquicoop.wav"
   },
 ];
 

@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Macondo&display=swap');
 body {
+  font-family: 'Macondo', cursive;
   background-color: lightgreen;
 
   /* Smoothly transition the background color */

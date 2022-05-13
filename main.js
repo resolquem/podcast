@@ -27,6 +27,12 @@ let track_list = [
     image: "solquicoop.png",
     path: "solquicoop.wav"
   },
+  {
+    name: "Literatura, amb Teo Ribes",
+    artist: "Jaume Argerich & Roger Padrell",
+    image: "literatura.png",
+    path: "literatura.wav"
+  },
 ];
 
 function random_bg_color() {

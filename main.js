@@ -31,7 +31,7 @@ let track_list = [
     name: "Literatura, amb Teo Ribes",
     artist: "Jaume Argerich & Roger Padrell",
     image: "literatura.png",
-    path: "https://edef4.pcloud.com/cfZcrLkTpZ5Yuxw8Z6kBzZZP5RSr7Z2ZZeX5ZZMs6kFZ0XZw7ZDXZSkZUXZpkZ1XZWkZ07ZLVZaZNkZ1ZbXZP7lfqcBGe9jhwQpSpWqrwfsBdX7y/literatura.wav"
+    path: "literatura.mp3"
   },
 ];
 

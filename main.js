@@ -37,7 +37,7 @@ let track_list = [
     name: "Futbol al PodBaks",
     artist: "Jaume Argerich & Roger Padrell",
     image: "futbol.gif",
-    path: "fotbol.mp3"
+    path: "futbol.mp3"
   },
 ];
 

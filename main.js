@@ -33,6 +33,12 @@ let track_list = [
     image: "literatura.png",
     path: "literatura.mp3"
   },
+    {
+    name: "Futbol al PodBaks",
+    artist: "Jaume Argerich & Roger Padrell",
+    image: "futbol.gif",
+    path: "futbol.mp3"
+  },
 ];
 
 function random_bg_color() {

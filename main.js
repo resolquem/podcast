@@ -34,7 +34,7 @@ let track_list = [
     path: "literatura.mp3"
   },
     {
-    name: "Futbol al PodBaks",
+    name: "Futbol, amb Paus",
     artist: "Jaume Argerich & Roger Padrell",
     image: "futbol.gif",
     path: "futbol.mp3"

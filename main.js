@@ -23,21 +23,27 @@ let curr_track = document.createElement('audio');
 let track_list = [
   {
     name: "SolquiCoop al PodBaks",
-    artist: "Jaume Argerich & Roger Padrell",
+    artist: "JRoger Padrell",
     image: "solquicoop.png",
     path: "solquicoop.wav"
   },
   {
     name: "Literatura, amb Teo Ribes",
-    artist: "Jaume Argerich & Roger Padrell",
+    artist: "Roger Padrell",
     image: "literatura.png",
     path: "literatura.mp3"
   },
     {
     name: "Futbol, amb Paus",
-    artist: "Jaume Argerich & Roger Padrell",
+    artist: "Roger Padrell",
     image: "futbol.gif",
     path: "futbol.mp3"
+  },
+  {
+    name: "La dança, amb l'Aina",
+    artist: "Roger Padrell",
+    image: "dansa.png",
+    path: "dansa.mp3"
   },
 ];
 

@@ -28,19 +28,19 @@ let track_list = [
     path: "solquicoop.wav"
   },
   {
-    name: "Literatura, amb Teo Ribes",
+    name: "Literatura amb Teo Ribes",
     artist: "Roger Padrell",
     image: "literatura.png",
     path: "literatura.mp3"
   },
     {
-    name: "Futbol, amb Paus",
+    name: "Futbol amb Paus",
     artist: "Roger Padrell",
     image: "futbol.gif",
     path: "futbol.mp3"
   },
   {
-    name: "La dança, amb l'Aina",
+    name: "La dansa amb l'Aina",
     artist: "Roger Padrell",
     image: "dansa.png",
     path: "dansa.mp3"

@@ -4,7 +4,7 @@
         var pass = new URLSearchParams(window.location.href).get("pass")
         var user = new URLSearchParams(window.location.href).get("user")
         var from = new URLSearchParams(window.location.href).get("from")
-        if pass == "podbakslab" && user == "radrell" && from == "scratch" {
+        if (pass == "podbakslab" && user == "radrell" && from == "scratch") {
             var div = document.getElementById("tab")
             div.innerHTML = "Password correct, reloading you."
             window.location.href = "https://resolquem.github.io/podcast/lab/lab.html?&pass=gpq0j54lj7rzjh14smf8"

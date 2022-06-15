@@ -20,18 +20,6 @@ let updateTimer;
 let curr_track = document.createElement('audio');
 
 // Define the tracks that have to be played
-var audioGet = new URLSearchParams(window.location.href).get("audio")
-var nameGet = new URLSearchParams(window.location.href).get("name")
-var imageGet = new URLSearchParams(window.location.href).get("image")
-let track_list = [
-{
-name: nameGet,
-artist: "Jaume Argerich & Roger Padrell",
-image: imageGet,
-path: audioGet,
-},
-];
-
 function random_bg_color() {
 
   // Get a number between 64 to 256 (for getting lighter colors)

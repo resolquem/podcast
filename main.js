@@ -13,6 +13,9 @@ let curr_time = document.querySelector(".current-time");
 let total_duration = document.querySelector(".total-duration");
 
 let track_index = 0;
+if(!isNaN(parseFloat(location.href.split("?")[1]))){
+  track_index = parseFloat(location.href.split("?")[1]);
+}
 let isPlaying = false;
 let updateTimer;
 

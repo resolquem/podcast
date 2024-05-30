@@ -48,6 +48,12 @@ let track_list = [
     image: "dansa.png",
     path: "dansa.mp3"
   },
+  {
+    name: "The lightbulb with Thomas Edison",
+    artist: "Roger Padrell & Jaume",
+    image: "thomasedison.gif",
+    path: "thomasedison.mp3"
+  }
 ];
 
 function random_bg_color() {
